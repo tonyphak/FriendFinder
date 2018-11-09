@@ -1,29 +1,26 @@
 # FriendFinder
 ## A Friend MatchMaking app
-User will be able look at a list of items and select the items he/she wants to buy. User will also be able to make changes to the list of items and its' information. The items has information such as the department they belong to as well as the stock quantity information
+Users will be able to find their perfect BFF! All they need to do is answer 10 personality questions and the scores will be matched with previous users!
 ## Motivation
-I wanted to create an app that will be able to add items to a database using mysql. I wanted the app to be able to make changes to the database based on prompts and user input.
+I wanted created an app that will match users with other previous users. After the user answers 10 questions, a window will appear that will show his/her perfect match's name and picture.
 
 ## Getting Started
 Full App can be found here [Friend Finder Demo](https://blooming-forest-25626.herokuapp.com/)
 
 ## Screenshots
-1. SQL Database - Below is the schema and seeds used for the SQL bamazon database
+1. Friend Finder - The user will go to the landing page and access the survey. The survey will be 10 questions and all fields must be entered. When the user submits the answers, a modal window will appear showing the name and picture of the perfect match.
 
 ![Image of question screen](https://github.com/tonyphak/bamazon-cli/blob/master/images/SQL%20SCHEMA.png)
 
 
 ## Technologies Used
 * Node.js
-* NPM (Inquirer)
-* SQL
+* NPM - Require and Express
 ## Prerequisites
 * NPM Inquirer - https://www.npmjs.com/package/inquirer (to access NPM Inquirer)
-* NPM MySql - https://www.npmjs.com/package/mysql (to access mysql via NPM install)
 ## Built With
 * Visual Studio Code: Editor
-* Bash Terminal
-* MySql WorkBench
+* Heroku
 ## Authors
-* Tony Phakasoum - Node.js/NPM/SQL   - [Tony Phakasoum](https://github.com/tonyphak)
+* Tony Phakasoum - Node.js/HTML/jQUERY   - [Tony Phakasoum](https://github.com/tonyphak)
 
