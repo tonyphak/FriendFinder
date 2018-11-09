@@ -10,8 +10,13 @@ Full App can be found here [Friend Finder Demo](https://blooming-forest-25626.he
 ## Screenshots
 1. Friend Finder - The user will go to the landing page and access the survey. The survey will be 10 questions and all fields must be entered. When the user submits the answers, a modal window will appear showing the name and picture of the perfect match.
 
-![Image of question screen](https://github.com/tonyphak/bamazon-cli/blob/master/images/SQL%20SCHEMA.png)
+### Landing Page and API
 
+![Image of question screen](https://github.com/tonyphak/FriendFinder/blob/master/images/gif1.gif)
+
+### Survey and Modal for Best Match
+
+![Image of question screen](https://github.com/tonyphak/FriendFinder/blob/master/images/gif2.gif)
 
 ## Technologies Used
 * Node.js
